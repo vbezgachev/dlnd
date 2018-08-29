@@ -1,0 +1,9 @@
+matplotlib==2.1.0
+pandas==0.20.3
+scikit-learn==0.19.1
+scipy==1.0.0
+numpy==1.13.1
+http://download.pytorch.org/whl/cu80/torch-0.3.1-cp35-cp35m-linux_x86_64.whl ; sys_platform == "linux"
+http://download.pytorch.org/whl/torch-0.3.1-cp35-cp35m-macosx_10_6_x86_64.whl ; sys_platform == "darwin"
+torchvision
+pillow==4.2.1

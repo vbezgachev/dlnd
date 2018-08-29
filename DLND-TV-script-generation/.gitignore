@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints
+*.p
+*.pyc
+*.gz
+*.meta
+*.index
+save.*
+
+checkpoint
+image_classification
+
+__pycache__/
+cifar-10-batches-py/
+

@@ -1,0 +1,13 @@
+.DS_Store
+.ipynb_checkpoints
+*.p
+*.pyc
+*.gz
+*.meta
+*.index
+save.*
+
+checkpoints/
+
+__pycache__/
+
